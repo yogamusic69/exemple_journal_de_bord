@@ -3,7 +3,7 @@
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
-Exemple: [Le grenier](https://www.grenier.qc.ca/)
+Exemple: [Animation World Network](https://www.awn.com/)
 
 ### Lien 2 
 
