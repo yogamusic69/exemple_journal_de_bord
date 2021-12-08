@@ -6,6 +6,7 @@
 * Décrire 5 emplois du domaine.
 
 ## [Cours 3](cours_03.md) 
+* Réflexion sur votre style graphique et vos intérêts
 * Regrouper les différentes ressources trouvées pour votre curation. 
 
 ## [Cours 4](cours_04.md) 
