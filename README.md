@@ -10,4 +10,4 @@
 * Regrouper les différentes ressources trouvées pour votre curation. 
 
 ## [Cours 4](cours_04.md) 
-* Insérer un moodboard. 
+* Insérer la carte heuristique de votre brainstorm. 
