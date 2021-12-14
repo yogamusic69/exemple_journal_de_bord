@@ -2,7 +2,7 @@
 ## [Cours 1](cours_01.md) 
 * Trouver 5 sites internet où il y a des nouvelles sur l'industrie.
 
-*texte en italique*     
+*Texte en italique*     
 **Texte en gras**    
 Texte normal
 
