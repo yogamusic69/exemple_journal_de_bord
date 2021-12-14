@@ -2,22 +2,24 @@
 ## Insérer une image
 Insérer une image ici: 
 
+![collage](images/collage.jpg)
 
-Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
+Un petit *aperçu* des travaux photographiques pendant mon **DEP en Photographie**  
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
-Exemple: [Animation World Network](https://www.awn.com/)
+[Qui Fait Quoi](http://www.qfq.com/)
 
 ### Lien 2 
-
+[Anime JS Library](https://animejs.com/)
 
 ### Lien 3 
-
+[Flat UI Colors](https://flatuicolors.com/)
 
 ### Lien 4 
-
+[Free 3D models](https://free3d.com/)
 
 ### Lien 5 
+[Dribbble - Design DB](https://dribbble.com/)
