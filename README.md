@@ -3,7 +3,8 @@
 * Trouver 5 sites internet où il y a des nouvelles sur l'industrie.
 
 *texte en italique*     
-**Texte en gras**
+**Texte en gras**    
+Texte normal
 
 ## [Cours 2](cours_02.md) 
 * Décrire 5 emplois du domaine.
