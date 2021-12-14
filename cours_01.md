@@ -2,6 +2,8 @@
 ## Insérer une image
 Insérer une image ici: 
 
+![soleil](Images/Soleil.jpeg)
+
 
 Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
 
