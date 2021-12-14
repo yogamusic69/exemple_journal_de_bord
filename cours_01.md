@@ -1,4 +1,10 @@
 # Cours 1
+## Insérer une image
+Insérer une image ici: 
+
+
+Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
+
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
