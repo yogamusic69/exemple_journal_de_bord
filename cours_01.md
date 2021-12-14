@@ -15,7 +15,7 @@ Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 [Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
 
 ### Lien 2 
-[Inter Design](https://idinterdesign.ca/animation-graphique-le-design-en-mouvement-motion-design/)
+[Interdisciplinaire Design](https://idinterdesign.ca/animation-graphique-le-design-en-mouvement-motion-design/)
 
 ### Lien 3 
 
