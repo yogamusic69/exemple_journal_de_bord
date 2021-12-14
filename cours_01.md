@@ -2,9 +2,9 @@
 ## Insérer une image
 Insérer une image ici: 
 
-![collage](images/collage.jpg)
+![collage](images/Montage1.jpg)
 
-Un petit *aperçu* des travaux photographiques pendant mon **DEP en Photographie**  
+Un petit *example* d'un montage photographique de mon expo qui s'appelle *Danse des étoiles* pendant mon **DEP en Photographie**  
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
