@@ -4,7 +4,7 @@ Insérer une image ici:
 
 ![soleil](Images/Couchersoleil.jpeg)
 
-**Coucher de soleil** à la plage en * *vacances* * 
+**Coucher de soleil** à la plage en * *vacances
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
