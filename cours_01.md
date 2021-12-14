@@ -12,7 +12,7 @@ Insérer une image ici:
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
-Exemple: [Québec Epix](https://www.quebecinternational.ca/fr/quebec-epix)
+Exemple: [Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
 
 ### Lien 2 
 
