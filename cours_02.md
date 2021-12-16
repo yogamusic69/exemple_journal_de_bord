@@ -57,7 +57,14 @@ Les compétences du développeur front-end sont : HTML, CSS, Javascript
 
 ### Emploi 4 - Spécialiste QA
 
-Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de sites ou encore d'autres produits et services, le testeur QA, pour Quality Assurance, a pour rôle de tester l’ensemble des fonctionnalités de l’outil et de mettre en place un suivi des itérations/modifications. Il doit ainsi déterminer les bugs et tous les problèmes et anomalies qui se présentent pendant une utilisation normale, afin de les réparer avant que ne sorte le logiciel.
+Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de sites ou encore d'autres produits et services, le testeur QA, pour Quality Assurance, a pour rôle de tester l’ensemble des fonctionnalités de l’outil et de mettre en place un suivi des itérations/modifications. Il doit ainsi déterminer les bugs et tous les problèmes et anomalies qui se présentent pendant une utilisation normale, afin de les réparer avant que ne sorte le logiciel.   
+D’une certaine manière, le testeur QA fait le lien entre l’utilisateur - dont il doit comprendre et reproduire les comportements - et les développeurs.
+
+* Il étudie l’ensemble des fonctionnalités en les testant une à une et en multipliant les possibilités. De cette façon, il se met à la place de tous les utilisateurs, comme s’il tentait de trouver un code parmi une multitude de combinaisons.
+* Il effectue un reporting de chacune des problématiques afin que les ingénieurs trouvent des solutions.
+* Il dispose également d'un rôle de conseil pour l’amélioration du produit avant sa sortie sur le marché.
+* Puis, il doit à nouveau réaliser des tests pour valider les modifications.
+* Il peut aussi être amené à déterminer le planning des modifications en fonction de ses tests.
 
 
 ### Emploi 5 - Gestionnaire de projet
