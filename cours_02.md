@@ -64,3 +64,11 @@ Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de 
 
 Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation.
 
+* Communiquer
+* Informer tous les acteurs
+* Maintenir le lien et l’intérêt de tous les acteurs
+* Aller chercher l’information
+* Gérer les risques :Planifier et prévenir les changements
+* Faire face aux imprévus (budget, acteurs, besoins,…)
+* S’adapter pour toujours garder le cap
+
