@@ -15,6 +15,14 @@ Personne qui analyse, conçoit et évalue, en tenant compte des critères ergono
 * Agit à titre de personne-ressource ou de consultant pour tout ce qui concerne l'optimisation de l'interface du produit.
 * Met ses connaissances à jour de façon continue afin de suivre l'évolution des nouvelles technologies de l'information et des communications.
 
+Éditeurs de logiciels.  
+Éditeurs, radiodiffuseurs et télédiffuseurs par Internet et sites portails de recherche.  
+Entreprises de systèmes informatiques, de logiciels et de sites Web.  
+Entreprises de vente par internet.  
+Entreprises spécialisées dans les services informatiques.  
+Gouvernement fédéral.  
+Gouvernement provincial.  
+
 ### Emploi 2 - Directeur artistique
 
 
