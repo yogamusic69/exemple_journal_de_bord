@@ -5,7 +5,9 @@ Insérer une image ici:
 ![nom image](images/IMG_20201206_185811.jpg)
 
 
-Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
+Décrire l'image. La description doit comprendre un mot en gras et un autre en italique.    
+*italique*   
+**gras**    
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
