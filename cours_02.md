@@ -57,7 +57,10 @@ Les compétences du développeur front-end sont : HTML, CSS, Javascript
 
 ### Emploi 4 - Spécialiste QA
 
+Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de sites ou encore d'autres produits et services, le testeur QA, pour Quality Assurance, a pour rôle de tester l’ensemble des fonctionnalités de l’outil et de mettre en place un suivi des itérations/modifications. Il doit ainsi déterminer les bugs et tous les problèmes et anomalies qui se présentent pendant une utilisation normale, afin de les réparer avant que ne sorte le logiciel.
+
 
 ### Emploi 5 - Gestionnaire de projet
 
+Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation.
 
