@@ -6,4 +6,5 @@ Réfléchir aux différents secteurs économiques dans lesquels vous pouvez oeuv
 Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'image en mouvement? Le matriciel ou le vectoriel?
 
 ## Lien vers la curation
-Insérer un lien de partage de votre Curation. 
+
+[Curation](https://www.pinterest.ca/saralisabethf/curation/)
