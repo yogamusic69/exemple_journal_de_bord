@@ -7,4 +7,4 @@ Quels sont les styles qui vous correspondent? Préférez-vous l'image fixe ou l'
 
 ## Lien vers la curation
 
-[Curation](https://www.pinterest.ca/saralisabethf/curation/)
+[Curation Sara-Élisabeth](https://www.pinterest.ca/saralisabethf/curation/)
