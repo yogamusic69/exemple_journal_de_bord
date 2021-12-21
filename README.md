@@ -4,6 +4,7 @@
 
 *Texte en italique*     
 **Texte en gras**    
+Texte test   
 Texte normal
 
 ## [Cours 2](cours_02.md) 
