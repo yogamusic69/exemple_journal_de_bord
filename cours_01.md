@@ -2,9 +2,12 @@
 ## Insérer une image
 Insérer une image ici: 
 
+![nom image](images/IMG_20201206_185811.jpg)
+[Animation World Network](https://www.awn.com/)
 
-Décrire l'image. La description doit comprendre un mot en gras et un autre en italique. 
-
+Décrire l'image. La description doit comprendre un mot en gras et un autre en italique.    
+*italique*   
+**gras**    
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
@@ -13,7 +16,7 @@ Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 Exemple: [Animation World Network](https://www.awn.com/)
 
 ### Lien 2 
-Lien vers du motion: 
+
 
 ### Lien 3 
 
