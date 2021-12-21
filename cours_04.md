@@ -3,4 +3,4 @@
 
 Insérer une image de votre carte ici: 
 
-![Carte](images/IMG_4564.HEIC)
+![Carte](images/pyramid_quest.jpg)
