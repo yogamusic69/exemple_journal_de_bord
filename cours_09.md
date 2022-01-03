@@ -14,9 +14,9 @@ Exemples :
 |Sujet posé |	Sujet divisé |
 | --------- | ------------ |
 |L’interactivité de l’œuvre	| <ul><li>La détection de mouvement</li><li>L’impact de la détection sur l’œuvre</li></ul>  |
-|L’aspect sonore de l’œuvre |	L’utilisation de la mélodie Le lien entre le visuel et le son |
-|La prestation	| L’aspect sonore Le visuel L’interactivité |
-| Les technologies utilisées	| Le mapping vidéo	La captation de mouvement |
+|L’aspect sonore de l’œuvre |<ul><li>L’utilisation de la mélodie</li><li>Le lien entre le visuel et le son </li></ul> 	 |
+|La prestation	|<ul><li> L’aspect sonore</li><li> Le visuel </li><li> L’interactivité </li></ul> 	 |
+| Les technologies utilisées	| <ul><li> Le mapping vidéo</li><li>La captation de mouvement</li></ul> |
 
 
 Développement : 
