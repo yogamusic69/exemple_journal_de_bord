@@ -6,15 +6,17 @@ Comment peit-on évaluer si notre projet photoshop, illustrator vidéeo ou sonor
 
 
 
-Est-ce que ça répond aux critères de départ, à t'il atteint son but?
+Est-ce que ça répond aux critères de départ, à t'il atteint son but? Le design remplit-il ses fonctions ?
 
 pertinence
 
 Cohérence
 
-Compréhension
+Compréhension, hierarchie visuelle
 
-Lisibilité, en petit en gros
+Originalité
+
+Lisibilité, adaptable en petit en gros
 
 Couleurs
 
