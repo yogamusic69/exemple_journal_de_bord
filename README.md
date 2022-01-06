@@ -21,3 +21,6 @@ Texte normal
 
 ## [Cours 5](cours_05.md) 
 * Insérer le moodboard de votre projet. 
+
+## [Cours 9](cours_09.md) 
+* Analyse critique
