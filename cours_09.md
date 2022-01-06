@@ -30,5 +30,6 @@ Développement :
  Créez un paragraphe par sous-sujet que vous avez mentionné à l’introduction. Dans ce paragraphe, vous devez aborder ce sujet en l’expliquant, puis en donnant votre opinion à ce propos. Prenez le temps d’expliquer votre opinion. 
 
 Conclusion : 
-Revenez sur les points principaux de votre texte. Faites une ouverture en nous mentionnant pourquoi cette œuvre vous a touché ou non.  
+Revenez sur les points principaux de votre texte. Faites une ouverture en nous mentionnant pourquoi cette œuvre vous a touché ou non.   
+
 
