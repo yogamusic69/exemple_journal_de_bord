@@ -2,6 +2,12 @@
 
 ## Analyse d'un projet créatif
 
+### Le projet créatif
+
+
+
+### L'analse
+
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
 * Quelles sont les faiblesses? 
