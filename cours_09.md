@@ -6,7 +6,7 @@
 [![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)
 
 
-### L'analse
+### L'analyse
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
