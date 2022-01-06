@@ -20,7 +20,7 @@ Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez trait
 Exemples : 
 |Sujet posé |	Sujet divisé |
 | --------- | ------------ |
-|L’interactivité de l’œuvre	| <ul><li>La détection de mouvement</li><li>L’impact de la détection sur l’œuvre</li></ul>  |
+|Le visuel de l'oeuvre	| <ul><li>Les règles de composition d'images</li><li>La qualité artistique</li></ul>  |
 |L’aspect sonore de l’œuvre |<ul><li>L’utilisation de la mélodie</li><li>Le lien entre le visuel et le son </li></ul> 	 |
 |La prestation	|<ul><li> L’aspect sonore</li><li> Le visuel </li><li> L’interactivité </li></ul> 	 |
 | Les technologies utilisées	| <ul><li> Le mapping vidéo</li><li>La captation de mouvement</li></ul> |
