@@ -2,21 +2,20 @@
 ## Insérer une image
 Insérer une image ici: 
 
-![nom image](images/IMG_20201206_185811.jpg)
-[Animation World Network](https://www.awn.com/)
 
-Décrire l'image. La description doit comprendre un mot en gras et un autre en italique.    
-*italique*   
-**gras**    
+![soleil](Images/Couchersoleil.jpeg)
+
+**Coucher de soleil** à la plage en *vacances*
+
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
-Exemple: [Animation World Network](https://www.awn.com/)
+[Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
 
 ### Lien 2 
-
+[Interdisciplinaire Design](https://idinterdesign.ca/animation-graphique-le-design-en-mouvement-motion-design/)
 
 ### Lien 3 
 

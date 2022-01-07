@@ -3,4 +3,6 @@
 
 Insérer une image de votre carte ici: 
 
-![carte](images/Carteheuristique.jpg)
+
+![carte](Images/carte.png)
+
