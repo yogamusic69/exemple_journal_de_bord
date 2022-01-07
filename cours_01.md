@@ -2,25 +2,29 @@
 ## Insérer une image
 Insérer une image ici: 
 
+![collage](images/Montage1.jpg)
 
-![soleil](Images/Couchersoleil.jpeg)
 
-**Coucher de soleil** à la plage en *vacances*
+Un petit *example* d'un montage photographique de mon expo qui s'appelle *Danse des étoiles* pendant mon **DEP en Photographie**  
 
 
 ## Liens vers des nouvelles de l'industrie
 Trouver 5 sites qui diffusent des nouvelles sur l'industrie.
 
 ### Lien 1 
+
 [Québec EPIX](https://www.quebecinternational.ca/fr/quebec-epix)
 
+
 ### Lien 2 
-[Interdisciplinaire Design](https://idinterdesign.ca/animation-graphique-le-design-en-mouvement-motion-design/)
+[Anime JS Library](https://animejs.com/)
+
 
 ### Lien 3 
-
+[Flat UI Colors](https://flatuicolors.com/)
 
 ### Lien 4 
-
+[Free 3D models](https://free3d.com/)
 
 ### Lien 5 
+[Dribbble - Design DB](https://dribbble.com/)

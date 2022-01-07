@@ -5,78 +5,131 @@ Rechercher des informations sur les emplois suivants. Écrire 4 à 5 lignes. Par
 ### Emploi 1 - Designer UX
 
 Personne qui analyse, conçoit et évalue, en tenant compte des critères ergonomiques, un système d'accès à tous les éléments contenus dans un produit multimédia, un système informatique, un logiciel, une application ou un site Internet en vue de créer une interface graphique conviviale et cohérente.
+
+
+Tâches reliées :
 * Participe à la définition des spécifications du produit et aux enquêtes auprès des utilisateurs.
 * Analyse les besoins et les tâches des utilisateurs.
-* Détermine les modalités d'entrée et de sortie ainsi que les fonctions de navigation à l'intérieur de l'application en tenant compte des comportements possibles de l'utilisateur face à l'information contenue dans le produit.
+* Détermine les modalités d'entrée et de sortie ainsi que les fonctions de navigation à l'intérieur de l'application en tenant compte des comportements possibles de * l'utilisateur face à l'information contenue dans le produit.
 * Collabore au montage de maquettes préliminaires et à la scénarisation interactive.
 * Applique les normes en matière d'accessibilité pour produire des affichages spécifiques adaptés aux besoins des utilisateurs présentant un handicap moteur, visuel ou neurologique.
-* Élabore les grilles d'évaluation utilisées par les techniciens chargés des tests et des validations.
-* S'assure que les éléments graphiques et sonores du produit ainsi que les autres éléments comme les arborescences respectent les critères et les normes utilisées en ergonomie.
-* Effectue le suivi concernant les problèmes d'utilisabilité et les corrections à apporter.
-* Agit à titre de personne-ressource ou de consultant pour tout ce qui concerne l'optimisation de l'interface du produit.
-* Met ses connaissances à jour de façon continue afin de suivre l'évolution des nouvelles technologies de l'information et des communications.
 
-Éditeurs de logiciels   
-Éditeurs, radiodiffuseurs et télédiffuseurs par Internet et sites portails de recherche   
-Entreprises de systèmes informatiques, de logiciels et de sites Web   
-Entreprises de vente par internet   
-Entreprises spécialisées dans les services informatiques   
-Gouvernement fédéral   
-Gouvernement provincial   
+Employeurs : 
+* Éditeurs de logiciels
+* Éditeurs, radiodiffuseurs et télédiffuseurs par Internet et sites portails de recherche
+* Entreprises de systèmes informatiques, de logiciels et de sites Web
+* Entreprises de vente par internet
+* Entreprises spécialisées dans les services informatiques
+* Gouvernement fédéral
+* Gouvernement provincial
 
+Professions apparentées :
+* Concepteur-idéateur, conceptrice-idéatrice de produits multimédias
+* Développeur, développeuse d'applications mobiles
+* Édimestre
+* Intégrateur, intégratrice multimédia et Web
+* Programmeur, programmeuse
+* Scénariste interactif
+* Stratège Web
+* Webmestre
 
 ### Emploi 2 - Directeur artistique
 
 Personne qui planifie et dirige la partie artistique des productions dans les domaines du cinéma, du théâtre, de la musique, de la radio, de la télévision, du multimédia et de la publicité en vue d'assurer le caractère artistique et réaliste de la période ou des lieux à représenter.
 
+
+Tâches reliées :
 * Parcourt le script et le scénario pour déterminer le thème et le style du spectacle, de la pièce, du film, etc.
 * Rencontre les auteurs.
 * Recherche les collaborateurs artistiques et sélectionne les artistes.
-* Sélectionne les artistes.
 * Se documente sur l'époque à laquelle se déroule l'action en consultant, entre autres, les archives ou en visitant les musées et les galeries d'art.
-* Coordonne la conception du décor, le choix des costumes, du mobilier et des accessoires propres à rendre l'esthétique et le réalisme du style.
-* Coordonne le travail du personnel de service afin de réaliser une production artistique dont les éléments sont en harmonie.
-* Assume la responsabilité de la programmation artistique.
-* Veille à ce que les artistes aient un climat de travail adéquat et assure la gestion du personnel.
-* Assiste aux représentations des projets de concerts ou de spectacles auquel il participe.
-* Conceptualise et créé les design de divers produits selon les besoins des clients.
-* Réalise les présentations graphiques aux clients.
+Coordonne la conception du décor, le choix des costumes, du mobilier et des accessoires propres à rendre l'esthétique et le réalisme du style.
 
-Agences de publicité   
-Compagnies de théâtre   
-Compagnies d'opéra   
-Conservatoires de musique ou de théâtre   
-Entreprises de production de films et de matériel visuel   
-Radiodiffuseurs   
-Télédiffuseurs   
+Employeurs :
+* Agences de publicité
+* Compagnies de théâtre
+* Compagnies d'opéra
+* Conservatoires de musique ou de théâtre
+* Entreprises de production de films et de matériel visuel
+* Radiodiffuseurs
+* Télédiffuseurs
 
+Professions apparentées :
+* Chef accessoiriste
+* Concepteur, conceptrice de décors
+* Concepteur-rédacteur, conceptrice-rédactrice publicitaire
+* Directeur musical, directrice musicale
+* Directeur, directrice de productions cinématographiques et télévisuelles
+* Directeur, directrice technique de productions artistiques
+* Metteur, metteure en scène
+* Producteur, productrice (cinéma, radio, télévision, spectacle)
+* Publicitaire
+* Réalisateur, réalisatrice
+* Régisseur, régisseuse
 
 ### Emploi 3 - Développement Front-End
 
-La conception de l’interface graphique utilisateur. En effet, celui-ci va mettre en place les éléments graphiques qui permettront à l’utilisateur final de se repérer sur l’interface et la prendre facilement en mains. Il va également développer les interactions, les animations, le responsive design,… Il travaillera conjointement avec au moins un webdesigner et, idéalement, un expert UX afin de livrer une interface ergonomique et ludique.
-Les compétences du développeur front-end sont : HTML, CSS, Javascript
+Le développeur front end programme la partie visible, l’interface utilisateur d’une app ou d’un site web à l’inverse du développeur back-end qui travaille dans l’ombre.
+
+Tâches reliées :
+* Grâce à sa connaissance des langages de développement web et des outils principaux que sont le HTML, le CSS, et le Javascript, le dev front crée des pages web en suivant les maquettes d’un graphiste ou webdesigner.
+* Il doit s’assurer que le site soit responsive, c’est à dire capable de s’adapter à tout type de supports afin de proposer une expérience qualitative et uniforme sur tous les navigateurs web et téléphones du marché qui ont des résolutions et tailles d’écran différentes.
+* L’objectif principal est de rendre, ou de maintenir, le site fonctionnel, intuitif et rapide tout en respectant les normes W3C. Un code de qualité et des tests pré-production rigoureux servent ce dessein.
+
+Un développeur front end peut travailler dans de très nombreuses entreprises : Startup, PME, grand groupe, éditeur de logiciel / d'application web, agence digitale etc.
+
+Professions apparentées :
+* UX et/ou UI Designer
+* Webdesigner
+* Intégrateur
+* Lead developer
+* Scrum master
+* Chef de projet ou Product Owner
+* CTO
 
 ### Emploi 4 - Spécialiste QA
 
-Dans le monde de la conception de logiciels, de jeux vidéo, de plateformes, de sites ou encore d'autres produits et services, le testeur QA, pour Quality Assurance, a pour rôle de tester l’ensemble des fonctionnalités de l’outil et de mettre en place un suivi des itérations/modifications. Il doit ainsi déterminer les bugs et tous les problèmes et anomalies qui se présentent pendant une utilisation normale, afin de les réparer avant que ne sorte le logiciel.   
-D’une certaine manière, le testeur QA fait le lien entre l’utilisateur - dont il doit comprendre et reproduire les comportements - et les développeurs.
+L’assurance qualité logicielle (AQL) est un ensemble d'activités planifiées et systématiques de toutes les actions nécessaires pour fournir une assurance suffisante de la qualité logicielle d'un nouveau logiciel ou d'une nouvelle version d'un logiciel est conforme aux exigences et aux attentes établies. Les pratiques d'AQL varient selon le modèle d'affaire et l'industrie où le logiciel est utilisé1.
 
-* Il étudie l’ensemble des fonctionnalités en les testant une à une et en multipliant les possibilités. De cette façon, il se met à la place de tous les utilisateurs, comme s’il tentait de trouver un code parmi une multitude de combinaisons.
-* Il effectue un reporting de chacune des problématiques afin que les ingénieurs trouvent des solutions.
-* Il dispose également d'un rôle de conseil pour l’amélioration du produit avant sa sortie sur le marché.
-* Puis, il doit à nouveau réaliser des tests pour valider les modifications.
-* Il peut aussi être amené à déterminer le planning des modifications en fonction de ses tests.
-
+Tâches reliées :
+* analyse de situation critique ;
+* analyse d’allocation d’exigences logicielle / utilisateur / matériel ;
+* analyse de traçabilité ;
+* analyse de sécurité ;
+* analyse de risques ;
+* test de logiciel.
 
 ### Emploi 5 - Gestionnaire de projet
 
-Le gestionnaire de projets est un catalyseur. Il mène les projets à bon port et coordonne tous les acteurs concernés par le projet, que ce soit par sa réalisation ou ses livrables. Il gère les impacts du projet, à la fois pendant sa réalisation et après sa finalisation.
+Personne qui planifie et coordonne le travail des équipes multidisciplinaires affectées au développement de projets multimédias (sites Internet, applications, jeux électroniques, etc.) en vue d'offrir des produits ou des services de qualité tout en respectant les délais et les ressources financières prévus pour leur réalisation.
 
-* Communiquer
-* Informer tous les acteurs
-* Maintenir le lien et l’intérêt de tous les acteurs
-* Aller chercher l’information
-* Gérer les risques :Planifier et prévenir les changements
-* Faire face aux imprévus (budget, acteurs, besoins,…)
-* S’adapter pour toujours garder le cap
+Tâches reliées :
+* Identifie et analyse les besoins des clients ainsi que la faisabilité et l'opportunité du projet.
+* Détermine les caractéristiques du projet et fixe les objectifs à atteindre.
+* Participe à la rédaction des spécifications du produit ou de l'offre de service.
+* Planifie la production en termes de ressources humaines et matérielles.
+* Établit l'échéancier de la production et veille au respect de celui-ci.
+* Évalue et contrôle les coûts engendrés par la réalisation du projet.
+* Identifie les risques et les problèmes du projet de même que leur impact sur la réalisation de celui-ci.
+* Assigne les tâches aux membres de l'équipe de travail en tenant compte de leurs compétences respectives.
+* Coordonne et supervise les activités de l'équipe de travail.
+* Agit à titre d'intermédiaire entre le client et l'équipe de projet durant la phase de réalisation.
+* Supervise la réalisation des études de faisabilité et des analyses techniques.
+* Rédige des rapports et les approbations pour le client.
+* S'assure de la qualité du produit et de la satisfaction de la clientèle.
+* Présente l'avancement et le résultat final du projet au client.
+* Assure un suivi auprès du client après la livraison du produit.
+* Peut participer à la préparation et à la négociation des contrats avec des fournisseurs externes ou avec des clients éventuels.
 
+Employeurs :
+* Catégories d'employeurs
+* Éditeurs de logiciels
+* Éditeurs, radiodiffuseurs et télédiffuseurs par Internet et sites portails de recherche
+* Entreprises de systèmes informatiques, de logiciels et de sites Web
+* Entreprises spécialisées dans les services informatiques
+
+
+Professions apparentées :
+* Concepteur, conceptrice de jeux vidéo
+* Concepteur-idéateur, conceptrice-idéatrice de produits multimédias
+* Scénariste interactif
