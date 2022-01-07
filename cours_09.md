@@ -3,26 +3,29 @@
 ## Analyse d'un projet créatif
 
 ### La Danse des Étoiles - Projet photographique sur musique originale
-[![Vidéo Danse des Étoiles sur Youtube](https://www.youtube.com/watch?v=_wqF8R-ajOQ)
-    
-    
+[![Vidéo Danse des Étoiles sur Youtube](https://img.youtube.com/vi/_wqF8R-ajOQ/0.jpg)](https://youtu.be/_wqF8R-ajOQ)    
 
 ### L'analyse
 
 Premièrement, réfléchir aux aspects suivants: 
 * Quelles sont les forces de ce projet? 
+
 L'utilisation d'une schema des lumières en studio pour favoriser la clarté des particules pour créér l'impression des étoiles sur fond noir dans l'éspace universel en arrière plan. Aller des postures de yoga à des portraits méditatifs pour suggérer l'idéé d'origine commune des étoiles des toutes êtres de lumière, aussi accentué dans la composition musicale qui accompagne la vidéo.
 
 * Quelles sont les faiblesses? 
+
 Moins des vidéos pour montrer le mouvement des étoiles dans l'éspace, prevu dans un futur projet.
 
 * Quel est le processus de création de ce projet? 
+
 Experimentation des positions des 2-3 flash pendant les photoshoot, et de la texture des étoiles pour l'arrière plan commun qui ressemble les photos dans le même projet. Même genre d'experimentation pour les lumières de contour pour les postures de yoga.
 
 * Qui participe à la création de ce projet? 
+
 Moi même comme photographe et concepteur, mon assistant et modèle Eli Vance (prof de yoga aussi), et toute une liste des ami(e)s modèles pendant les sessions photos.
 
 * Quel est le message derrière ce projet ou son objectif? 
+
 Le message unificateur est qu'on vient tous des étoiles, et qu'on est chacun(e) une étoile, et que notre rayonnement n'est pas une competition mais une co-création du ciel du Cosmos.
 
 Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? 
