@@ -3,7 +3,7 @@
 ## Analyse d'un projet créatif
 
 ### La Danse des Étoiles - Projet photographique sur musique originale
-[![watch](https://www.youtube.com/watch?v=_wqF8R-ajOQ)
+[![Vidéo Danse des Étoiles sur Youtube](https://www.youtube.com/watch?v=_wqF8R-ajOQ)
     
     
 
